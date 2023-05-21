@@ -1,0 +1,108 @@
+---
+title: "Lecture notes"
+---
+ 
+
++ Topic 1: Introduction to Statistics & Describing Data with Graphs/Numerical Measures
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 1.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
++ Topic 2: Introduction to Probability
+  + Part I: Probability
+    + Basic definitions in probability
+    + Counting rules for calculating probabilities 
+    + Event Relations and Probability Rules
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 2_1.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Part II : Conditional Probability
+    + Definition of conditional probability 
+    + Bayes Rule
+    + Law of Total Probability
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 2_2.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+
++ Topic 3: Random Variables and Important Probability Distributions
+  + What is Random Variable and its Distribution? 
+  + Discrete random variable and Important discrete distribution
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 3_1.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Continuous random variable and Important continuous distribution
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 3_2.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+
++ Topic 4: Sampling Distribution and Large-Sample Estimation
+  + Central Limit Theorem for Sampling Distribution
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 4_1.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Large-Sample estimation (point estimation and confidence interval)
+    + One population mean
+    + Difference between two population means
+    + One population proportion
+    + Difference between two population proportions
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 4_2.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```   
+
+
++ Topic 5: Hypothesis Testing
+  + Test about a population mean
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 5_1.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```   
+
+  + Test about the difference between two population means
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 5_2.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```   
+
+
+  + Test about a population proportion
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 5_3.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```   
+
+  + Test about the difference between two population proportions
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 5_4.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```     
+  
++ Topic 6: Correlation and Simple Linear Regression
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 6.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```   
+    
